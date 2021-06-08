@@ -39,16 +39,14 @@
 <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
-#####⚡  Github Stats: <br> ![visitors](https://visitor-badge.glitch.me/badge?page_id=JAY9039.JAY9039)
+##### ⚡Github Stats: <br> ![visitors](https://visitor-badge.glitch.me/badge?page_id=JAY9039.JAY9039)
 [![JAY9039 GitHub stats](https://github-readme-stats.vercel.app/api?username=JAY9039&hide=contribs,prs&theme=gruvbox)](https://github.com/JAY9039/JAY9039) 
+
+##### Now Listining to -
+[![Spotify](https://novatorem-mjjky4ydx-jay9039.vercel.app/api/spotify)](https://open.spotify.com/user/317dmq2g53nhjxodhkk3twewmjau)
 
 ##### ⚡  Github Activity -->
 
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
-
-##### Now Listining to -
-
-[![Spotify](https://novatorem-mjjky4ydx-jay9039.vercel.app/api/spotify)](https://open.spotify.com/user/317dmq2g53nhjxodhkk3twewmjau)
-
