@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jay Sharma 👋</h1>
+<h1 align="center">Hi, I'm Jay Sharma 👋</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 
 <h3 align="center">
@@ -23,11 +23,11 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 🤖 About Me & My Works 🚀 !!
-- 🧐 I'm passionate about new technologies 😎
-- 🔭 I’m currently working on some cool Projects 😉
-- 🌱 I’m currently learning Full stack Web Development and Docker 💻
-- 🥅 2022 Goals: Landing an Internship and putting myself out there and connect with as many people as I can. 
-- ⚡ Fun fact: I love to Listing to Hip-Hop music, play FPS shoters and Outdoor games like Football and Badminton.
+- 🧐 I'm passionate about new technologies. 😎
+- 🔭 I’m currently working as a Software Developer. 💻
+- 🌱 I just want to keep working hard until I get what I want. Trust me I want alot.
+- 🥅 2023 Goals: To connect with as many people as I can and start playing soccer again. 
+- ⚡ Fun fact: I love to Listing to Rap music, play FPS shoters and Outdoor games like Football and Badminton.
 - 📫 How to reach me Mailtojaysharma@gmail.com
 
 ### Languages and Tools:
