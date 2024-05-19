@@ -18,19 +18,20 @@
    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
 </a>
 </h3>
+</br>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 
-##### ⚡Github Stats: <br> ![visitors](https://visitor-badge.glitch.me/badge?page_id=JAY9039.JAY9039)
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-## 🤖 About Me & My Works 🚀 !!
-- 🧐 I'm passionate about new technologies. 😎
-- 🔭 I’m currently working as a Software Developer. 💻
-- 🌱 I just want to keep working hard until I get what I want. Trust me I want alot.
-- 🥅 2023 Goals: To connect with as many people as I can and start playing soccer again. 
-- ⚡ Fun fact: I love to Listing to Rap music, play FPS shoters and Outdoor games like Football and Badminton.
-- 📫 How to reach me Mailtojaysharma@gmail.com
+<h1>🤖 About Me & My Works 🚀 !!</h1>
 
-### Languages and Tools:
+- 🧐 I'm passionate about diving into cutting-edge technologies.😎
+- 🔭 Currently, I’m thriving as a Software Developer. 💻
+- 🌱 2024 Goals: Expanding my network within the tech community 🤝 and rekindling my passion for soccer ⚽.
+- ⚡ Fun fact: I'm an avid fan of rap music 🎧
+- 📫 Let's connect! Reach out to me at 📧 Mailtojaysharma@gmail.com.
+</br>
+
+<h1 align="center">💻 Languages and Tools:</h1>
 <p align="left">
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -50,5 +51,19 @@
 <img alt="Netlify" src="https://img.shields.io/badge/Netlify-%2361624B?style=for-the-badge&logo=netlify"/>
 </p>
 
-[![JAY9039 GitHub stats](https://github-readme-stats.vercel.app/api?username=JAY9039&hide=contribs,prs&theme=gruvbox)](https://github.com/JAY9039/JAY9039) 
+</br>
+
+<h1 align="center">📊 GitHub Stats: </h1>    
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=JAY9039&theme=react&hide_border=true&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAY9039&theme=react&hide_border=true"/>
+</br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAY9039&theme=react&hide_border=true&include_all_commits=true&count_private=true"/>
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark"/>
+    <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+</div>
+
+
+
+
 
